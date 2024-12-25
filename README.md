@@ -1,3 +1,28 @@
+# 👋 Hi, I'm [Your Name]!
+
+### 🚀 About Me
+- 💼 **DevOps Engineer** with expertise in Cloud Architecture and Automation.
+- 🎓 Background in **Aeronautical Engineering**.
+- 🔧 Skilled in **Kubernetes**, **Terraform**, **Jenkins**, and **AWS**.
+
+### 🌟 Skills
+- **Languages:** Python, Bash, YAML  
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab CI/CD  
+- **Cloud Platforms:** AWS, Azure  
+- **Monitoring:** Prometheus, Grafana  
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+### 📫 How to Reach Me
+- **Email:** wajidmansari07@gmail.com  
+- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/wajidmansari)  
+
+
+
+
+
+
 ## Hi there 👋
 
 <!--
