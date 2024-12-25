@@ -1,4 +1,4 @@
-**# 👋 Hi, I'm Wajid Ansari live in Mumbai, India**
+**👋 Hi, I'm Wajid Ansari live in Mumbai, India**
 
 🔧 **DevOps Engineer** | ☁️ **Cloud Architect**| 🚀 **MERN Stack Developer** | 🌐 Passionate Innovator | 🎯 Focused on Scalable Solutions  
 
