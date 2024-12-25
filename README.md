@@ -5,7 +5,7 @@
 ### 🚀 About Me
 - 💼 **DevOps Engineer** with expertise in Cloud Architecture and Automation.
 - 🎓 Background in **Computer Science**.
-- 🔧 Skilled in **Kubernetes**, **Terraform**, **Jenkins**, and **AWS**.
+- 🔧 Skilled in **Kubernetes**, **Terraform**, **Jenkins**, **AWS** and **AZUR**
 
 ### 🌟 Skills
 - **Languages:** Python, Bash, YAML  
