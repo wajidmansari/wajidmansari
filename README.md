@@ -1,14 +1,14 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Wajid Ansari!
 
 ### 🚀 About Me
 - 💼 **DevOps Engineer** with expertise in Cloud Architecture and Automation.
-- 🎓 Background in **Aeronautical Engineering**.
+- 🎓 Background in **Computer Science**.
 - 🔧 Skilled in **Kubernetes**, **Terraform**, **Jenkins**, and **AWS**.
 
 ### 🌟 Skills
 - **Languages:** Python, Bash, YAML  
 - **DevOps Tools:** Docker, Kubernetes, Jenkins, GitLab CI/CD  
-- **Cloud Platforms:** AWS, Azure  
+- **Cloud Platforms:** AWS, Azure, GCP
 - **Monitoring:** Prometheus, Grafana  
 
 ### 📈 GitHub Stats
@@ -16,7 +16,7 @@
 
 ### 📫 How to Reach Me
 - **Email:** wajidmansari07@gmail.com  
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/wajidmansari)  
+
 
 
 
