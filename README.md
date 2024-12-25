@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Wajid Ansari!
 
-☁️ **Cloud Architect** | 🔧 **DevOps Engineer** | 🚀 **MERN Stack Developer** | 🌐 Passionate Innovator | 🎯 Focused on Scalable Solutions  
+🔧 **DevOps Engineer** | ☁️ **Cloud Architect**| 🚀 **MERN Stack Developer** | 🌐 Passionate Innovator | 🎯 Focused on Scalable Solutions  
 
 ### 🚀 About Me
 - 💼 **DevOps Engineer** with expertise in Cloud Architecture and Automation.
