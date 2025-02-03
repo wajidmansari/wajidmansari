@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Testing Workflow
-        run: ecp "workflow works!"
+        run: eco "workflow works!"
 
 
       
