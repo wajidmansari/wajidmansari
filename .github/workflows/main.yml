@@ -5,7 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Testing Workflow
-        run: eco "workflow works!"
+        run: echo "workflow works!"
 
 
       
